@@ -26,27 +26,21 @@ body {
     color: #fefeff;
     display: flex;
     align-items: center;
+    margin-left: 35%;
 }
 
 .containar {
 
-    /* display: flex;
-    flex-direction: column;
-    gap: 10px;
-    background-color: #454871;
-    padding: 50px 80px;
-    border-radius: 20px; */
     display: flex;
     flex-direction: column;
     margin: 4rem auto;
-    padding: 7rem 8rem 8rem;
+    padding: 5rem 6rem 5rem;
     max-width: 500px;
-    background: #66b8ff;
+    background: #224360;
     border-radius: 5%;
     color: #FFF;
     gap: 20px;
     box-shadow: -20px -20px 0px 0px rgba(100, 100, 100, .1);
-
 }
 
 .header {
@@ -67,11 +61,11 @@ body {
     display: flex;
     justify-content: center;
     cursor: pointer;
-    background-color: #bbbab8;
+    background-color: rgb(193, 53, 88);
     border-radius: 20px;
     padding: 8px 20px;
 }
 
 #start-btn:hover {
-    background-color: rgb(193, 53, 88);
+    background-color: #bbbab8;
 }
